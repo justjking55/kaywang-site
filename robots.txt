@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://justjking55.github.io/sitemap.xml
+Sitemap: https://justjking55.github.io/kaywang-site//sitemap.xml
